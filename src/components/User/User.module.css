@@ -1,0 +1,40 @@
+
+.container {
+    background-color: #a8d5baff;
+    padding: 50px;
+    list-style-type: none;
+    word-wrap: break-word;
+  }
+
+.string {
+      background-color: rgb(90, 142, 172);
+      margin-bottom: 20px;
+      text-align: center;
+      color: white;
+      font-size: 20px;
+  
+  }
+
+  .container .string img {
+      width: 30px;
+      height: 30px;
+  vertical-align: middle;
+}
+
+.link {
+    display: inline-block;
+}
+
+.button {
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 15px;
+  }
