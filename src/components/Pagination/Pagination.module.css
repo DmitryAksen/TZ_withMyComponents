@@ -3,6 +3,10 @@
   margin-top: 20px;
 }
 
+.pagination a:focus {
+  color: red;
+}
+
 .pagination a {
   color: black;
   float: left;
